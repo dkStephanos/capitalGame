@@ -1,0 +1,39 @@
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\bin\Debug\Resources\states.txt
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\bin\Debug\CapitalGame.exe.config
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\bin\Debug\CapitalGame.exe
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\bin\Debug\CapitalGame.pdb
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.CountryGameForm.resources
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.StateGameForm.resources
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.Forms.SplashForm.resources
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.Properties.Resources.resources
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.csproj.GenerateResource.Cache
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.exe
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.pdb
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\bin\Debug\Resources\countries.txt
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.csprojResolveAssemblyReference.cache
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\bin\Debug\CapitalGame.exe.config
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.exe
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.pdb
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\bin\Debug\Resources\countries.txt
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\bin\Debug\Resources\states.txt
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\bin\Debug\CapitalGame.exe
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\bin\Debug\CapitalGame.pdb
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.csprojResolveAssemblyReference.cache
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.CountryGameForm.resources
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.StateGameForm.resources
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.Forms.SplashForm.resources
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.Properties.Resources.resources
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.csproj.GenerateResource.Cache
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\bin\Debug\CapitalGame.exe.config
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.exe
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.pdb
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\bin\Debug\Resources\countries.txt
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\bin\Debug\Resources\states.txt
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\bin\Debug\CapitalGame.exe
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\bin\Debug\CapitalGame.pdb
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.csprojResolveAssemblyReference.cache
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.CountryGameForm.resources
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.StateGameForm.resources
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.Forms.SplashForm.resources
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.Properties.Resources.resources
+C:\Users\Stephanos\Documents\Old Projects\CapitalGame\CapitalGame\obj\Debug\CapitalGame.csproj.GenerateResource.Cache
